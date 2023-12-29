@@ -1,0 +1,40 @@
+.bg {
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  .info {
+    max-width: 650px;
+    width: 95%;
+    background-color: white;
+    height: 70vh;
+    bottom: 0;
+    position: relative;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+  }
+  img {
+    position: absolute;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: -120px;
+    width: 275px;
+    height: 275px;
+    object-fit: contain;
+    z-index: 1;
+  }
+}
+
+.loadingContainer {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

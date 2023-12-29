@@ -1,0 +1,33 @@
+{
+  "title": {
+    "about": "Detalles",
+    "stats": "Estadísticas base"
+  },
+  "pokemon": {
+    "weight": "Peso",
+    "height": "Altura"
+  },
+  "type": {
+    "normal": "normal",
+    "fighting": "lucha",
+    "flying": "volador",
+    "ground": "tierra",
+    "poison": "veneno",
+    "rock": "roca",
+    "bug": "bicho",
+    "ghost": "fantasma",
+    "steel": "acero",
+    "fire": "fuego",
+    "water": "agua",
+    "grass": "planta",
+    "electric": "eléctrico",
+    "psychic": "psíquico",
+    "ice": "hielo",
+    "dragon": "dragón",
+    "dark": "siniestro",
+    "fairy": "hada",
+    "unknown": "desconocido",
+    "shadow": "oscuro"
+  },
+  "language": "Español"
+}

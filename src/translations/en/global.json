@@ -1,0 +1,33 @@
+{
+  "title": {
+    "about": "About",
+    "stats": "Base Stats"
+  },
+  "pokemon": {
+    "weight": "Weight",
+    "height": "Height"
+  },
+  "type": {
+    "normal": "normal",
+    "fighting": "fighting",
+    "flying": "flying",
+    "ground": "ground",
+    "poison": "poison",
+    "rock": "rock",
+    "bug": "bug",
+    "ghost": "ghost",
+    "steel": "steel",
+    "fire": "fire",
+    "water": "water",
+    "grass": "grass",
+    "electric": "electric",
+    "psychic": "psychic",
+    "ice": "ice",
+    "dragon": "dragon",
+    "dark": "dark",
+    "fairy": "fairy",
+    "unknown": "unknown",
+    "shadow": "shadow"
+  },
+  "language": "English"
+}
