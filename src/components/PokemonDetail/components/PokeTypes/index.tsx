@@ -1,4 +1,3 @@
-import { useTransition } from "react";
 import { IPokemon } from "../../../../interfaces/interfaces";
 import { background } from "../../../../utils/BackgroundsByTypes";
 
@@ -10,7 +9,7 @@ interface Props {
 }
 
 export const PokeTypes = ({ pokemon }: Props) => {
-  const [t, i18n] = useTranslation("global");
+  const [t] = useTranslation("global");
   return (
     <div className={styles.types}>
       {/* @ts-ignore */}
