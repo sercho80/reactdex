@@ -29,7 +29,7 @@ export const BaseStats = ({ pokemon, backgroundSelected }: Props) => {
               {baseStatsNames[name]}
             </span>
             <div className={styles.rigth}>
-              <p>0{base_stat}</p>
+              <p>{base_stat >= 100 ? base_stat : `0${base_stat}`}</p>
               <div className={styles.line}>
                 <div
                   className={styles.background}
