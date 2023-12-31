@@ -1,10 +1,12 @@
 # Pokédex - React + TypeScript + Vite
 
-```
+
 TODO:
 - Add filter by name
-- Don't let users to enter pages greater than the maximum
-```
+- Add available games
+- Add available forms
+- ~~Don't let users to enter pages greater than the maximum or below the first one~~
+
 
 Currently, two languages are supported:
 
